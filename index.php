@@ -17,5 +17,4 @@
   <body>
 
     <h1>git-flow-test</h1>
-    <div>福井テストしてみるテスト</div>
   </body>
