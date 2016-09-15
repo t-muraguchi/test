@@ -5,8 +5,11 @@
 <title>git-flow-test</title>
 
 <style>
+body {
+  background-color: #000;
+}
 h1 {
-  color: #f00;
+  color: #ff0;
 }
 </style>
 
