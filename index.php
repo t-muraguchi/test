@@ -6,7 +6,7 @@
 
 <style>
 h1 {
-  color: #f00;
+  color: #ff0;
 }
 </style>
 
