@@ -1,21 +1,20 @@
 <!DOCTYPE html>
 <html lang="ja">
-<head>
-<meta charset="utf-8">
-<title>git-flow-test</title>
+  <head>
+    <meta charset="utf-8">
+    <title>git-flow-test</title>
 
-<style>
-body {
-  background-color: #000;
-}
-h1 {
-  color: #ff0;
-}
-</style>
+    <style>
+      body {
+        background-color: #000;
+      }
+      h1 {
+        color: #ff0;
+      }
+    </style>
 
-</head>
-<body>
+  </head>
+  <body>
 
-<h1>git-flow-test</h1>
-
-</body>
+    <h1>git-flow-test</h1>
+  </body>
