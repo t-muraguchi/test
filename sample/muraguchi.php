@@ -6,4 +6,4 @@
  * and open the template in the editor.
  */
 
-echo "Muraguchi Test";
+echo "Muraguchi Test 書き換え";
