@@ -17,4 +17,5 @@
   <body>
 
     <h1>git-flow-test</h1>
+    <p>test</p>
   </body>
